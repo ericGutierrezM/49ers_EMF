@@ -1,0 +1,17 @@
+[project]
+name = "49ersemf"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "html5lib>=1.1",
+    "lxml>=6.0.2",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "requests>=2.32.5",
+    "scipy>=1.17.0",
+    "selenium>=4.39.0",
+    "webdriver-manager>=4.0.2",
+]
